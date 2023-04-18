@@ -19,19 +19,23 @@ function Main() {
   }
 
   return (
+    <div>
+    <h1 className='heading'>Counter Application</h1>
     <div className="home">
       <Counter
         Count={Count}
         onIncrement={onIncrement}
         ButtonClicked={ButtonClicked}
       />
-
+    <div>
       <button className="color" onClick={onChangeColor} type="button">
         Change Color
       </button>
       <button className="color" type="button" onClick={onReset}>
         Reset Count
       </button>
+      </div>
+    </div>
     </div>
   )
 }

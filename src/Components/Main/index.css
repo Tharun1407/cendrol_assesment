@@ -1,15 +1,26 @@
 .home {
-    background-color: rgb(217, 219, 224);
+    background-color: rgb(186, 200, 238);
     height: 500px;
     width: 500px;
     border-radius: 10px;
     display: grid;
     place-items: center;
+    margin-top: 40px;
   }
   .color {
     padding: 10px;
-    background-color: rgb(128, 30, 219);
+    background-color: rgb(8, 97, 16);
     color: white;
     border-radius: 10px;
+    margin: 5px;
+    border-width: 0px;
   }
   
+  .heading{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    margin-bottom: 20px;
+  }

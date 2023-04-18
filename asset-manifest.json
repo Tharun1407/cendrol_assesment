@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.a70a6701.css",
-    "main.js": "/my-app/static/js/main.8b2b8aca.js",
-    "index.html": "/my-app/index.html",
-    "main.a70a6701.css.map": "/my-app/static/css/main.a70a6701.css.map",
-    "main.8b2b8aca.js.map": "/my-app/static/js/main.8b2b8aca.js.map"
+    "main.css": "/cendrol_assesment/static/css/main.a70a6701.css",
+    "main.js": "/cendrol_assesment/static/js/main.8b2b8aca.js",
+    "index.html": "/cendrol_assesment/index.html",
+    "main.a70a6701.css.map": "/cendrol_assesment/static/css/main.a70a6701.css.map",
+    "main.8b2b8aca.js.map": "/cendrol_assesment/static/js/main.8b2b8aca.js.map"
   },
   "entrypoints": [
     "static/css/main.a70a6701.css",

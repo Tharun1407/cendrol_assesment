@@ -1,8 +1,8 @@
 {
-  "name": "my-app",
+  "name": "cendrol_assesment",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Tharun1407.github.io/my-app",
+  "homepage": "http://Tharun1407.github.io/cendrol_assesment",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",

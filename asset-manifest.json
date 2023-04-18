@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/cendrol_assesment/static/css/main.a70a6701.css",
-    "main.js": "/cendrol_assesment/static/js/main.8b2b8aca.js",
+    "main.css": "/cendrol_assesment/static/css/main.0016f641.css",
+    "main.js": "/cendrol_assesment/static/js/main.a074e11b.js",
     "index.html": "/cendrol_assesment/index.html",
-    "main.a70a6701.css.map": "/cendrol_assesment/static/css/main.a70a6701.css.map",
-    "main.8b2b8aca.js.map": "/cendrol_assesment/static/js/main.8b2b8aca.js.map"
+    "main.0016f641.css.map": "/cendrol_assesment/static/css/main.0016f641.css.map",
+    "main.a074e11b.js.map": "/cendrol_assesment/static/js/main.a074e11b.js.map"
   },
   "entrypoints": [
-    "static/css/main.a70a6701.css",
-    "static/js/main.8b2b8aca.js"
+    "static/css/main.0016f641.css",
+    "static/js/main.a074e11b.js"
   ]
 }

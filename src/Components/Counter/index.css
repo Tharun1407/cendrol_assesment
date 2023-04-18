@@ -1,0 +1,37 @@
+.counter {
+    background-color: transparent;
+    color: yellow;
+    border-width: 0px 0px 2px 0px;
+  
+    border-color: white;
+  }
+  .counter-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+  
+    color: white;
+  }
+  
+  h1 {
+    font-size: 80px;
+    margin: 0px;
+  }
+  
+  .counter-true {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    color: white;
+  }
+  

@@ -1,0 +1,15 @@
+.home {
+    background-color: rgb(217, 219, 224);
+    height: 500px;
+    width: 500px;
+    border-radius: 10px;
+    display: grid;
+    place-items: center;
+  }
+  .color {
+    padding: 10px;
+    background-color: rgb(128, 30, 219);
+    color: white;
+    border-radius: 10px;
+  }
+  
